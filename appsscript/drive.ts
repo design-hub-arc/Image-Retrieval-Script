@@ -1,4 +1,4 @@
-function handleNewFiles(ssID: string, evalName: string, response: Map<string, ImageResponse>) {
+function handleNewFiles(evalName: string, response: Map<string, ImageResponse>) {
   // As of 2/8/2021 clasp typescript is outdated and does not recognize moveTo()
   // moveTo() is defined and works, ignore the red underline
 
