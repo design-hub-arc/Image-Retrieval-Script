@@ -34,5 +34,5 @@ function LibraryConversion() {
   });
 
   // add images to file in drive
-  handleNewFiles(ss.getId(), evaluationName, sheetRes);
+  handleNewFiles(evaluationName, sheetRes);
 }
