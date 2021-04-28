@@ -7,7 +7,7 @@ This simple script extracts images from a given Google Sheet into a specified fo
 It is designed to parse a specific format in order to keep information about the image according to its position in the spreadsheet. See [Usage](#usage) below for more details.
 
 ### Credit
-This script achieves works by using [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp), a Google Scripts library by [tanaikech](https://tanaikech.github.io/about/). Please refer to that project's GitHub repository to read more about capabilities and limitations.
+This script works by using [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp), a Google Scripts library by [tanaikech](https://tanaikech.github.io/about/). Please refer to that project's GitHub repository to read more about capabilities and limitations.
 
 ## Installation
 
